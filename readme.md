@@ -2,3 +2,4 @@
 2. Git is free software distributed under the GPL.
 3. Git has a mutable index called stage.
 4. Update this line on github page.
+5. Update this line on my Macbook Pro.
